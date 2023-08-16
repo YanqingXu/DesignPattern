@@ -1,2 +1,36 @@
 # DesignPattern
 ### 这个仓库是为了学习设计模式的，我会用6种语言来实现23种设计模式，如果有正在学习或想学习设计模式的同学，欢迎一起加入！
+
+设计模式通常被分为三大类，总共有23种，这些设计模式是由Erich Gamma，Richard Helm，Ralph Johnson和John Vlissides在他们的书《设计模式：可复用面向对象软件的基础》中提出的。这四位作者也被称为“四人帮”（Gang of Four，GoF）。
+以下是这23种设计模式的列表：
+
+创建型模式（5种）：
+1. 单例模式（Singleton）
+2. 建造者模式（Builder）
+3. 原型模式（Prototype）
+4. 工厂方法模式（Factory Method）
+5. 抽象工厂模式（Abstract Factory）
+
+结构型模式（7种）：
+6. 适配器模式（Adapter）
+7. 桥接模式（Bridge）
+8. 组合模式（Composite）
+9. 装饰模式（Decorator）
+10. 外观模式（Facade）
+11. 享元模式（Flyweight）
+12. 代理模式（Proxy）
+
+行为型模式（11种）：
+13. 责任链模式（Chain of Responsibility）
+14. 命令模式（Command）
+15. 解释器模式（Interpreter）
+16. 迭代器模式（Iterator）
+17. 中介者模式（Mediator）
+18. 备忘录模式（Memento）
+19. 观察者模式（Observer）
+20. 状态模式（State）
+21. 策略模式（Strategy）
+22. 模板方法模式（Template Method）
+23. 访问者模式（Visitor）
+
+这些设计模式提供了解决常见软件设计问题的通用解决方案，可以提高代码的可重用性、模块性和可维护性。
