@@ -17,8 +17,8 @@ class MyClass {
     }
 }
 
-const instance1 = Singleton.getInstance(MyClass);
-const instance2 = Singleton.getInstance(MyClass);
+const instance1 = Singleton.getInstance.call(MyClass) as MyClass;
+const instance2 = Singleton.getInstance.call(MyClass) as MyClass;
 
 instance1.display();
 instance2.display();
