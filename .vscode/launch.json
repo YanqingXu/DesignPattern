@@ -28,7 +28,7 @@
             "name": "Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${fileDirname}/../target/debug/singleton",
+            "program": "${fileDirname}/../target/debug/builder",
             "args": [],
             "cwd": "${workspaceFolder}"
         },
