@@ -15,9 +15,9 @@ func (c *Car) ShowDetails() {
 
 // 2. Builder
 type CarBuilder interface {
-	SetWheels() CarBuilder
-	SetColor() CarBuilder
-	SetEngine() CarBuilder
+	SetWheels(int) CarBuilder
+	SetColor(string) CarBuilder
+	SetEngine(string) CarBuilder
 	Build() *Car
 }
 
@@ -30,18 +30,18 @@ func NewSedanCarBuilder() *SedanCarBuilder {
 	return &SedanCarBuilder{&Car{}}
 }
 
-func (b *SedanCarBuilder) SetWheels() CarBuilder {
-	b.car.Wheels = 4
+func (b *SedanCarBuilder) SetWheels(wheels int) CarBuilder {
+	b.car.Wheels = wheels
 	return b
 }
 
-func (b *SedanCarBuilder) SetColor() CarBuilder {
-	b.car.Color = "Red"
+func (b *SedanCarBuilder) SetColor(color string) CarBuilder {
+	b.car.Color = color
 	return b
 }
 
-func (b *SedanCarBuilder) SetEngine() CarBuilder {
-	b.car.Engine = "V6"
+func (b *SedanCarBuilder) SetEngine(engine string) CarBuilder {
+	b.car.Engine = engine
 	return b
 }
 
@@ -58,8 +58,8 @@ func (d *ManufacturingDirector) SetBuilder(b CarBuilder) {
 	d.builder = b
 }
 
-func (d *ManufacturingDirector) Construct() {
-	d.builder.SetWheels().SetColor().SetEngine()
+func (d *ManufacturingDirector) Construct(wheels int, color string, engine string) {
+	d.builder.SetWheels(wheels).SetColor(color).SetEngine(engine)
 }
 
 func main() {
@@ -68,7 +68,7 @@ func main() {
 	sedanBuilder := NewSedanCarBuilder()
 
 	director.SetBuilder(sedanBuilder)
-	director.Construct()
+	director.Construct(4, "Red", "V8")
 
 	car := sedanBuilder.Build()
 	car.ShowDetails()

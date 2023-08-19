@@ -63,25 +63,26 @@ namespace BuilderPattern
             this.builder = builder;
         }
 
-        public void Construct()
+        public void Construct(int wheels = 4, string color = "Red", string engine = "V6")
         {
-            builder?.SetWheels(4)?.SetColor("Red")?.SetEngine("V6");
+            builder?.SetWheels(wheels)?.SetColor(color)?.SetEngine(engine);
         }
     }
+}
 
-    class Program
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            // Client code
-            ManufacturingDirector director = new ManufacturingDirector();
-            SedanCarBuilder sedanBuilder = new SedanCarBuilder();
+        // Client code
+        ManufacturingDirector director = new ManufacturingDirector();
+        SedanCarBuilder sedanBuilder = new SedanCarBuilder();
 
-            director.SetBuilder(sedanBuilder);
-            director.Construct();
+        director.SetBuilder(sedanBuilder);
+        director.Construct();
 
-            Car car = sedanBuilder.Build();
-            car.ShowDetails();
-        }
+        Car car = sedanBuilder.Build();
+        car.ShowDetails();
     }
+}
 }
