@@ -1,0 +1,14 @@
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+E:\DesignPattern\Creation\FactoryMethod\CSharp\bin\Debug\net7.0\CSharp.exe
+E:\DesignPattern\Creation\FactoryMethod\CSharp\bin\Debug\net7.0\CSharp.deps.json
+E:\DesignPattern\Creation\FactoryMethod\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+E:\DesignPattern\Creation\FactoryMethod\CSharp\bin\Debug\net7.0\CSharp.dll
+E:\DesignPattern\Creation\FactoryMethod\CSharp\bin\Debug\net7.0\CSharp.pdb
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.dll
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.pdb
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+E:\DesignPattern\Creation\FactoryMethod\CSharp\obj\Debug\net7.0\ref\CSharp.dll

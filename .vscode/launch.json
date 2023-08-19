@@ -28,7 +28,7 @@
             "name": "Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${fileDirname}/../target/debug/prototype",
+            "program": "${fileDirname}/../target/debug/factory_method",
             "args": [],
             "cwd": "${workspaceFolder}"
         },
