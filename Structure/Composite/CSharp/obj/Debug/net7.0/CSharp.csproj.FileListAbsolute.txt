@@ -1,14 +1,3 @@
-E:\DesignPattern\Structure\Composite\CSharp\bin\Debug\net7.0\CSharp.exe
-E:\DesignPattern\Structure\Composite\CSharp\bin\Debug\net7.0\CSharp.deps.json
-E:\DesignPattern\Structure\Composite\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
-E:\DesignPattern\Structure\Composite\CSharp\bin\Debug\net7.0\CSharp.dll
-E:\DesignPattern\Structure\Composite\CSharp\bin\Debug\net7.0\CSharp.pdb
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.dll
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\refint\CSharp.dll
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.pdb
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
-E:\DesignPattern\Structure\Composite\CSharp\obj\Debug\net7.0\ref\CSharp.dll
+version https://git-lfs.github.com/spec/v1
+oid sha256:273b20462555619b5af3e786ec2e0f1c1b5964c5e79c7f87126a3e0b086a24ad
+size 1171

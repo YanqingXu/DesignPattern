@@ -1,14 +1,3 @@
-E:\DesignPattern\Structure\Adapter\CSharp\bin\Debug\net7.0\CSharp.exe
-E:\DesignPattern\Structure\Adapter\CSharp\bin\Debug\net7.0\CSharp.deps.json
-E:\DesignPattern\Structure\Adapter\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
-E:\DesignPattern\Structure\Adapter\CSharp\bin\Debug\net7.0\CSharp.dll
-E:\DesignPattern\Structure\Adapter\CSharp\bin\Debug\net7.0\CSharp.pdb
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.dll
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\refint\CSharp.dll
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.pdb
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
-E:\DesignPattern\Structure\Adapter\CSharp\obj\Debug\net7.0\ref\CSharp.dll
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a15baf3025fbfe57fc3e650ab276e5ff96d736a17862ea97d529eb011a4da2b
+size 1143
