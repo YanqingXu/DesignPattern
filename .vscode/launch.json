@@ -28,7 +28,7 @@
             "name": "Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${fileDirname}/../target/debug/composite",
+            "program": "${fileDirname}/../target/debug/decorator",
             "args": [],
             "cwd": "${workspaceFolder}"
         },
