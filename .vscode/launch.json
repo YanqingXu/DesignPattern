@@ -28,7 +28,7 @@
             "name": "Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${fileDirname}/../target/debug/iterator",
+            "program": "${fileDirname}/../target/debug/mediator",
             "args": [],
             "cwd": "${workspaceFolder}"
         },
