@@ -28,7 +28,7 @@
             "name": "Rust",
             "type": "lldb",
             "request": "launch",
-            "program": "${fileDirname}/../target/debug/templateMethod",
+            "program": "${fileDirname}/../target/debug/visitor",
             "args": [],
             "cwd": "${workspaceFolder}"
         },
